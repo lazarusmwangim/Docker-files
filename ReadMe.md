@@ -1,4 +1,4 @@
-# Assignment 1 - Docker Containers
+# Docker Containers for C# source code
 ## Running on CMD Windows
 
 1. Navigate to BackEnd/SampleAPI directory
